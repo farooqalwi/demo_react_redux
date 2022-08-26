@@ -1,0 +1,49 @@
+.App {
+
+  display: grid;
+}
+
+.App h1 {
+  text-align: center;
+  grid-column-start: 1;
+  grid-column-end: 12;
+}
+
+.orderList {
+  grid-column-start: 1;
+  grid-column-end: 6;
+
+}
+
+.orderItem {
+  margin: 2rem;
+  text-align: center;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.cart {
+  grid-column-start: 7;
+  grid-column-end: 12;
+
+  margin: 2rem;
+  border-style: solid;
+  border-radius: 10px;
+
+  position: relative;
+}
+
+.cart h1 {
+  text-align: center;
+}
+
+.grandTotal {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.clearCart{
+  margin: 10px;
+  text-align: right;
+}

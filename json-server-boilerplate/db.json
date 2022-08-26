@@ -1,0 +1,41 @@
+{
+  "products": [
+        {"id": 1, "categoryId": 1, "name": "banana", "price": "170" },
+        {"id": 2, "categoryId": 1, "name": "bilberry", "price": "320" },
+        {"id": 3, "categoryId": 1, "name": "blackberry", "price": "250" },
+        {"id": 4, "categoryId": 1, "name": "blackcurrant", "price": "160" },
+        {"id": 5, "categoryId": 1, "name": "blood orange", "price": "130" },
+        {"id": 6, "categoryId": 1, "name": "blueberry", "price": "180" },
+        {"id": 7, "categoryId": 1, "name": "water melon", "price": "70" },
+        {"id": 8, "categoryId": 1, "name": "cherry", "price": "300" },
+        {"id": 9, "categoryId": 1, "name": "apple", "price": "200" },
+
+        {"id": 10, "categoryId": 2, "name": "Cabbage", "price": "70" },
+        {"id": 11, "categoryId": 2, "name": "Capsicum", "price": "60" },
+        {"id": 12, "categoryId": 2, "name": "Beetroot", "price": "65" },
+        {"id": 13, "categoryId": 2, "name": "Tomatoes", "price": "50" },
+        {"id": 14, "categoryId": 2, "name": "Celeriac", "price": "90" },
+        {"id": 15, "categoryId": 2, "name": "Carrots", "price": "80" },
+        {"id": 16, "categoryId": 2, "name": "Onions", "price": "75" },
+        {"id": 17, "categoryId": 2, "name": "Potatoes", "price": "55" },
+
+        {"id": 18, "categoryId": 3, "name": "pepsi", "price": "140" },
+        {"id": 19, "categoryId": 3, "name": "malta", "price": "80" },
+        {"id": 20, "categoryId": 3, "name": "dew", "price": "100" },
+        {"id": 21, "categoryId": 3, "name": "seven up", "price": "90" },
+        {"id": 22, "categoryId": 3, "name": "fanta", "price": "60" },
+        {"id": 23, "categoryId": 3, "name": "sting", "price": "75" },
+        {"id": 24, "categoryId": 3, "name": "lichi", "price": "50" }
+    ],
+    "categoryItems": [
+        {
+            "id": 1, "name": "Fruits"
+        },
+        {
+            "id": 2, "name": "Vegetables"
+        },
+        {
+            "id": 3, "name": "Drinks"
+        }
+    ]
+}
